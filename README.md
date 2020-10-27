@@ -8,7 +8,7 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 
 In this course (and the previous course), you learn how to implement the following design in SwiftUI:
 
-   * [Bull's Eye App Design (made with Figma)](High-Fidelity Design for Bull's Eye (made with Figma): https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=0%3A1)
+   * [High-Fidelity Design for Bull's Eye (made with Figma)](https://www.figma.com/file/3MBMeYd2hP4rajTbHnZL0z/Bullseye?node-id=0%3A1)
 
 ## Release History
 
