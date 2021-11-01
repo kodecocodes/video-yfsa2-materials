@@ -2,6 +2,8 @@
 
 This repo contains all the downloadable materials and projects associated with the **[Your First iOS and SwiftUI App: Polishing the App](https://www.raywenderlich.com/library)** from [raywenderlich.com](https://www.raywenderlich.com).
 
+These materials have been reviewed and are updated as of November, 2021.
+
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
 ## Figma Design
