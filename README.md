@@ -1,6 +1,6 @@
 # Your First iOS and SwiftUI App: Polishing the App: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[Your First iOS and SwiftUI App: Polishing the App](https://www.raywenderlich.com/library)** from [raywenderlich.com](https://www.raywenderlich.com).
+This repo contains all the downloadable materials and projects associated with the **[Your First iOS and SwiftUI App: Polishing the App](https://www.raywenderlich.com/28797859-your-first-ios-swiftui-app-polishing-the-app)** from [raywenderlich.com](https://www.raywenderlich.com).
 
 These materials have been reviewed and are updated as of November, 2021.
 
@@ -17,4 +17,4 @@ In this course (and the previous course), you learn how to implement the followi
 | Branch                                                                            | Version | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
 | [versions/1.0](https://github.com/raywenderlich/video-yfsa2-materials/tree/versions/1.0) | 1.0     | 2020-12-16   |
-| [versions/2.0](https://github.com/raywenderlich/video-yfsa2-materials/tree/versions/2.0) | 2.0     | YYYY-MM-DD   |
+| [versions/2.0](https://github.com/raywenderlich/video-yfsa2-materials/tree/versions/2.0) | 2.0     | 2022-03-031   |
