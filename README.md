@@ -17,4 +17,4 @@ In this course (and the previous course), you learn how to implement the followi
 | Branch                                                                            | Version | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
 | [versions/1.0](https://github.com/raywenderlich/video-yfsa2-materials/tree/versions/1.0) | 1.0     | 2020-12-16   |
-| [versions/2.0](https://github.com/raywenderlich/video-yfsa2-materials/tree/versions/2.0) | 2.0     | 2022-03-031   |
+| [versions/2.0](https://github.com/raywenderlich/video-yfsa2-materials/tree/versions/2.0) | 2.0     | 2022-03-01   |
