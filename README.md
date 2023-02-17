@@ -1,8 +1,8 @@
-# Your First iOS and SwiftUI App: Polishing the App: Materials
+# Your First iOS & SwiftUI App: Polishing the App: Materials
 
-This repo contains all the downloadable materials and projects associated with the **[Your First iOS and SwiftUI App: Polishing the App](https://www.kodeco.com/library)** from [Kodeco](https://www.kodeco.com).
+This repo contains all the downloadable materials and projects associated with the **[Your First iOS & SwiftUI App: Polishing the App](https://www.kodeco.com/38052670-your-first-ios-swiftui-app-polishing-the-app)** from [Kodeco](https://www.kodeco.com).
 
-These materials have been reviewed and are updated as of November, 2021.
+These materials have been reviewed and are updated as of February, 2023.
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
@@ -18,4 +18,4 @@ In this course (and the previous course), you learn how to implement the followi
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
 | [versions/1.0](https://github.com/kodecocodes/video-yfsa2-materials/tree/versions/1.0) | 1.0     | 2020-12-16   |
 | [versions/2.0](https://github.com/kodecocodes/video-yfsa2-materials/tree/versions/2.0) | 2.0     | 2022-03-01   |
-| [versions/3.0](https://github.com/kodecocodes/video-yfsa2-materials/tree/versions/3.0) | 3.0     | YYYY-MM-DD  |
+| [versions/3.0](https://github.com/kodecocodes/video-yfsa2-materials/tree/versions/3.0) | 3.0     | 2023-02-17  |
