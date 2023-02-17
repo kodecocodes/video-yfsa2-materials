@@ -8,11 +8,11 @@ struct Game {
 
   init(loadTestData: Bool = false) {
     if loadTestData {
-      leaderboardEntries.append(LeaderboardEntry(score: 100, date: Date()))
-      leaderboardEntries.append(LeaderboardEntry(score: 80, date: Date()))
-      leaderboardEntries.append(LeaderboardEntry(score: 200, date: Date()))
-      leaderboardEntries.append(LeaderboardEntry(score: 50, date: Date()))
-      leaderboardEntries.append(LeaderboardEntry(score: 20, date: Date()))
+      addToLeaderboard(score: 100)
+      addToLeaderboard(score: 80)
+      addToLeaderboard(score: 200)
+      addToLeaderboard(score: 50)
+      addToLeaderboard(score: 20)
     }
   }
 

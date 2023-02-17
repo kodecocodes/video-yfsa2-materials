@@ -12,8 +12,9 @@ struct LeaderboardView: View {
         LabelView()
         ScrollView {
           VStack(spacing: 10) {
-            ForEach(Array(game.leaderboardEntries.enumerated()), id: \.offset) { index, entry in
-              RowView(index: index + 1, score: entry.score, date: entry.date)
+            ForEach(game.leaderboardEntries.indices, id: \.self) { i in
+              let leaderboardEntry = game.leaderboardEntries[i]
+              RowView(index: i + 1, score: leaderboardEntry.score, date: leaderboardEntry.date)
             }
           }
         }
